@@ -68,7 +68,7 @@ To get a local copy up and running, follow these simple steps:
 - **CSS**
 - **JavaScript**
 - **Bootstrap** (or any other CSS framework, if used)
-- **API** (mention specific APIs if used)
+
 
 ## Contributing
 
